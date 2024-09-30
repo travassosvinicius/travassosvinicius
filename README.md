@@ -13,7 +13,7 @@
   
 - 👨‍🎓 CAI - Eletricista de Manutenção SENAI "Celso Charuri"
 - 👨‍🎓 Formação Técnica - Industria 4.0 Colégio Técnico de Campinas (COTUCA)
-- 📚 Data Science - Python "ENAI Roberto Mange"
+- 📚 Data Science - Python SENAI Roberto Mange"
 - 📚 Soluções Integradas - IoT SENAI "Roberto Mange"
 - 📚 Redes Industriais SENAI "Roberto Mange"
 - 📚 FMS SENAI "Roberto Mange"
