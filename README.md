@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align=center>
+<h1>Vinicius Travassos <code><img width="40px" src=https://icongr.am/devicon/apple-original.svg?size=128&color=currentColor/></code></h1>
+</div>
 
-<!--
-**travassosvinicius/travassosvinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+<code><img width="400px" height="200px" src="https://www.revistaferramental.com.br/admin/images/artigos/industria-4-0-o-que-e-conceitos.jpg"/></code></h1>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+### 🏫 Formações:
+  
+- 👨‍🎓 CAI - Eletricista de Manutenção
+- 👨‍🎓 Formação Técnica - Industria 4.0
+- 📚 Data Science - Python
+- 📚 Soluções Integradas - IoT
+
+<br>
+
+### 🖥️ Tecnologias e Ferramentas:
+
+<code><img  width="40px" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/></code>
+<code><img  width="40px" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"/></code>
+
+<br>
+
+### 📶 Contatos:
+
+<a href="https://www.linkedin.com/in/viniciustravassos/"><code><img  width="40px" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor"/></code></a>
+<a href="mailto:viniciustravassos0411@gmail.com"><code><img  width="40px" src="https://icongr.am/clarity/email.svg?size=128&color=currentColor"/></code></a>
+
+  
+</div>
+
