@@ -13,8 +13,11 @@
   
 - 👨‍🎓 CAI - Eletricista de Manutenção
 - 👨‍🎓 Formação Técnica - Industria 4.0
-- 📚 Data Science - Python
-- 📚 Soluções Integradas - IoT
+- 📚 Data Science - Python "SENAI ROBERTO MANGE"
+- 📚 Soluções Integradas - IoT "SENAI ROBERTO MANGE"
+- 📚 Redes Industriais "SENAI ROBERTO MANGE"
+- 📚 FMS "SENAI ROBERTO MANGE"
+  
 
 <br>
 
