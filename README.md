@@ -11,13 +11,13 @@
 
 ### 🏫 Formações:
   
-- 👨‍🎓 CAI - Eletricista de Manutenção
-- 👨‍🎓 Formação Técnica - Industria 4.0
-- 📚 Data Science - Python "SENAI ROBERTO MANGE"
-- 📚 Soluções Integradas - IoT "SENAI ROBERTO MANGE"
-- 📚 Redes Industriais "SENAI ROBERTO MANGE"
-- 📚 FMS "SENAI ROBERTO MANGE"
-  
+- 👨‍🎓 CAI - Eletricista de Manutenção SENAI "Celso Charuri"
+- 👨‍🎓 Formação Técnica - Industria 4.0 Colégio Técnico de Campinas (COTUCA)
+- 📚 Data Science - Python "ENAI Roberto Mange"
+- 📚 Soluções Integradas - IoT SENAI "Roberto Mange"
+- 📚 Redes Industriais SENAI "Roberto Mange"
+- 📚 FMS SENAI "Roberto Mange"
+- 📚 Torno CNC(Básico) SENAI "Roberto Mange"
 
 <br>
 
